@@ -1,0 +1,22 @@
+<!--Div Acerca de-->
+<div class="card" id="segundaDiv">
+    <div class="row filaAcercaDe">
+        <div class="col">
+            <span><h2> Acerca de</h2></span>
+            <p id="texto-acercaDe">Tecnico electornico, mecanico, Full stack developer Jr.</p>
+        </div>
+       
+        <div class="col-1 btn-edit" onclick="cambiar_texto()">
+            <a href="#" class="btn-right">
+                <i class="fa fa-pencil"></i>
+            </a>
+        </div>
+        <div class="mb-3">
+            
+            <input type="text" class="form-control" id="edit_acercaDe" placeholder="Nuevo texto" oninput="cargar_texto(this.value)" style="display:none">
+        </div>
+        <!-- <div>
+            <input id="edit_acercaDe" oninput="cargar_texto(this.value)" type="text" style="display:none ;">
+        </div>-->
+    </div>
+</div>

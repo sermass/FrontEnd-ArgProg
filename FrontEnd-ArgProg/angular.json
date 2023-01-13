@@ -26,10 +26,10 @@
             ],
             "styles": [
               "src/styles.css",
-              "FrontEnd-ArgProg/node_modules/bootstrap/dist/css/bootstrap.css"
+              "FrontEnd-ArgProg/node_modules/bootstrap/dist/css/bootstrap.min.css"
             ],
             "scripts": [
-             "FrontEnd-ArgProg/node_modules/bootstrap/dist/js/bootstrap.js"
+             "FrontEnd-ArgProg/node_modules/bootstrap/dist/js/bootstrap.min.js"
             ]
           },
           "configurations": {

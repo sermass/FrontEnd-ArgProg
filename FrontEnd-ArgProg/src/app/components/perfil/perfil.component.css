@@ -1,0 +1,13 @@
+ul{
+    margin: left 5%;
+    list-style-type: none;
+}
+
+button{
+    
+    margin-right: 10px;
+}
+
+.botonActual{
+    padding-left: 2%;
+}
