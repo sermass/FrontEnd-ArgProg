@@ -10,6 +10,8 @@ import { ExperienciaComponent } from './components/experiencia/experiencia.compo
 // Import ng-circle-progress
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { HardSoftSkilComponent } from './components/hard-soft-skil/hard-soft-skil.component';
+import { ProyectoComponent } from './components/proyecto/proyecto.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 @NgModule({
   declarations: [
@@ -18,7 +20,9 @@ import { HardSoftSkilComponent } from './components/hard-soft-skil/hard-soft-ski
     AcercaDeComponent,
     PerfilComponent,
     ExperienciaComponent,
-    HardSoftSkilComponent
+    HardSoftSkilComponent,
+    ProyectoComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
