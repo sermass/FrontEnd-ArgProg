@@ -1,0 +1,22 @@
+ul{
+    margin: left 5%;
+    list-style-type: none;
+}
+.imagenExper
+{
+    height: 12%;
+    width: 12%;
+}
+
+.utn,
+.acamica{
+height: 70%;
+width: 70%;
+}
+
+.fa-plus,
+.fa-pencil{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
